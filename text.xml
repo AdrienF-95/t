@@ -1,0 +1,24 @@
+[11:38 AM] v.remon (Guest)
+    
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Mon site</title>
+<description>Ceci est un exemple de flux RSS 2.0</description>
+<lastBuildDate>Sat, 07 Sep 2002 00:00:01 GMT</lastBuildDate>
+<link>http://www.example.org
+<item>
+<title>Actualité N°1</title>
+<description>Ceci est ma première actualité</description>
+<pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
+<link>http://www.example.org/actu1
+</item>
+<item>
+<title>Actualité N°2</title>
+<description>Ceci est ma seconde actualité</description>
+<pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
+<link>http://www.example.org/actu2
+</item>
+</channel>
+</rss>
+<https://teams.microsoft.com/l/message/19:6a2d0efbba0841d5a5525bff7527214c@thread.tacv2/1604572736639?tenantId=b8c19512-2aed-471d-a8d1-9b06e7da786a&amp;groupId=3b26da08-4b5a-47f5-93bf-8e0bc33bca67&amp;parentMessageId=1604563249822&amp;teamName=EISTI - Eleves Cyber 2020&amp;channelName=General&amp;createdTime=1604572736639>
